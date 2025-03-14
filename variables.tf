@@ -27,3 +27,9 @@ variable "region" {
   default     = "me-abudhabi-1"
 
 }
+
+variable "compartment_name" {
+  description = "The name of the compartment."
+  default     = "ocid1.tenancy.oc1..aaaaaaaawx6pbtjldf6cnewngzjvcuermrwrwezyymibrv7yzx6wdrbk7vza"
+
+}
