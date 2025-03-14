@@ -2,7 +2,7 @@
 
 This project sets up an Oracle Cloud Infrastructure (OCI) environment using Terraform. It includes the creation of a Virtual Cloud Network (VCN), subnets, security lists, and a compute instance.
 
-![Infrastructure Diagram](infrastructure-diagram.png)
+![Infrastructure Diagram](.png)
 
 ## Project Structure
 
