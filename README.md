@@ -2,8 +2,7 @@
 
 This project sets up an Oracle Cloud Infrastructure (OCI) environment using Terraform. It includes the creation of a Virtual Cloud Network (VCN), subnets, security lists, and a compute instance.
 
-![Infrastructure Diagram](.png)
-
+![Infra](image.png)
 ## Project Structure
 
 - `availabilty-domains.tf`: Defines the availability domains in the tenancy.
